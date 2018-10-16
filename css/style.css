@@ -1,0 +1,17 @@
+.nav-primary .navbar-collapse {
+  justify-content: flex-end; }
+
+.carousel.banner {
+  height: 91vh;
+  margin-top: 56px; }
+
+.carousel.banner img {
+  height: 91vh; }
+
+.carousel-caption.d-none.d-md-block {
+  text-shadow: 1px 1px #000000; }
+
+.carousel-caption.d-none.d-md-block p {
+  font-size: 1.3rem; }
+
+/*# sourceMappingURL=style.css.map */
