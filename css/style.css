@@ -1,17 +1,74 @@
 .nav-primary .navbar-collapse {
   justify-content: flex-end; }
 
+.carousel-layout {
+  background-color: #000000;
+  height: 91vh; }
+
 .carousel.banner {
   height: 91vh;
   margin-top: 56px; }
 
 .carousel.banner img {
-  height: 91vh; }
+  height: 91vh;
+  opacity: 0.5; }
 
 .carousel-caption.d-none.d-md-block {
   text-shadow: 1px 1px #000000; }
 
 .carousel-caption.d-none.d-md-block p {
   font-size: 1.3rem; }
+
+.servicos-title {
+  margin-top: 35px;
+  text-transform: uppercase; }
+
+.card-border {
+  border-bottom: 1px solid #b9b9b9;
+  padding-top: 25px; }
+
+.row.col-4.portifolio {
+  margin-top: 15px; }
+
+.portifolio-title {
+  margin-top: 35px;
+  text-transform: uppercase; }
+
+.contact {
+  background-color: gray; }
+
+.portifolio.col {
+  padding: 0; }
+
+.container.row.portifolio.justify-content-center {
+  margin-bottom: 30px; }
+
+.portifolio-large img {
+  width: 100%;
+  height: 300px;
+  object-position: center;
+  object-fit: cover; }
+
+.portifolio-small img {
+  width: 100%;
+  height: 200px;
+  object-position: center;
+  object-fit: cover; }
+
+.img-thumbnail {
+  width: 250px;
+  height: 250px;
+  object-position: center;
+  object-fit: cover; }
+
+.container.progress {
+  margin-top: 50px; }
+
+.progress {
+  margin-top: 15px; }
+
+.contact {
+  margin-top: 50px;
+  padding: 20px; }
 
 /*# sourceMappingURL=style.css.map */
